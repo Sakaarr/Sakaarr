@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sakarbhandari3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakarbhandari3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sakar bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakar bhandari" height="30" width="40" /></a>
-<a href="https://fb.com/sakar bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakar bhandari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sakar-bhandari-242470244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakar bhandari" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sakar986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakar bhandari" height="30" width="40" /></a>
 <a href="https://instagram.com/sakar.bh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakar.bh" height="30" width="40" /></a>
 </p>
 
