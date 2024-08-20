@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a CEO in Axor Technology Pvt. Ltd, [Axor Technology](https://www.linkedin.com/company/axor-technology)
 
-- 🌱 I’m currently learning **Deep Leaning and Django Rest Framework**
+- 🌱 I’m currently learning **Deep Learning and Django Rest Framework**
 
 - 📫 How to reach me **email.sakarr@gmail.com**
 
