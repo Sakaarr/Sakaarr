@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/sakarbhandari3" target="blank"><img src="https://img.shields.io/twitter/follow/sakarbhandari3?logo=twitter&style=for-the-badge" alt="sakarbhandari3" /></a> </p>
 
-- 🔭 I’m currently working as a CEO in Axor Technology Pvt. Ltd, [Axor Technology](https://www.linkedin.com/company/axor-technology)
 
 - 🌱 I’m currently learning **Deep Learning and Django Rest Framework**
 
