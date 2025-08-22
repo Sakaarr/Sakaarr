@@ -23,6 +23,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakaarr&show_icons=true&locale=en&layout=compact" alt="sakaarr" /></p>
 <h3 align="left">LeetCode Stats:</h3>
 <p align="left">
-  <img src="![](https://leetcard.jacoblin.cool/sakar567?animation=false)/>
+  <img src="https://leetcard.jacoblin.cool/sakar567?animation=false/>
 </p>
 
