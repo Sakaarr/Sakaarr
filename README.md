@@ -85,7 +85,7 @@ class Developer:
 ## 💻 LeetCode Journey
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/sakar567?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/sakaarr?theme=dark&font=Cormorant%20Garamond" alt="LeetCode Stats"/>
 </div>
 
 **🎯 Problem Solving Stats:**
